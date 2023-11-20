@@ -6,6 +6,7 @@ This repository contains the annotations definition to MSG-Foundation project
 1. [Description](#description)
 2. [Prerequisites](#prerequisites)
 3. [Usage](#usage)
+4. [Annotations Library Configuration](#annotations-library-configuration)
 
 
 ## Description
@@ -44,4 +45,22 @@ To use the program you must do:
    ```
    You must have installed a Maven version
 
-3. You are done! You can use the annotations library.
+3. The previous command generates a folder called target where there will be a .jar file which can be used in the other projects to use the annotations.
+
+4. You are done! You can use the annotations library.
+
+## Annotations Library Configuration
+
+1. Clic on "Project Structure"
+
+![select Project Structure](doc/step1-project-structure.png)
+
+2. Clic on Modules > projectName > + > JARs or Directories...
+
+![find jar option](doc/step2-select-jar.png)
+
+3. Search the biptrac-annotations project and select the biptrac-annotations-1.0-SNAPSHOT.jar 
+
+![select jar file](doc/step3-select-jar-2.png)
+
+4. Ready! You can use the annotations into your project.
