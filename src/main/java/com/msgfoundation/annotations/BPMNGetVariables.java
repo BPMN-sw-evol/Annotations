@@ -1,6 +1,4 @@
-
-package annotations;
-
+package com.msgfoundation.annotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
