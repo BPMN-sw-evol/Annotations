@@ -8,11 +8,46 @@
   <packaging>jar</packaging>
 
   <name>biptrac-annotations</name>
+  <description>Library providing custom annotations for BPMN models.</description>
   <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+
+  <licenses>
+    <license>
+      <name>Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.html</url>
+    </license>
+  </licenses>
+
+    <developers>
+    <developer>
+      <name>Danilo Nuñez Gil</name>
+      <email>danilo.gil98@gmail.com</email>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+
+    <scm>
+    <url>https://github.com/BPMN-sw-evol/biptrac-annotations.git</url>
+    <connection>scm:git:https://github.com/BPMN-sw-evol/biptrac-annotations.git</connection>
+    <developerConnection>scm:git:https://github.com/BPMN-sw-evol/biptrac-annotations.git</developerConnection>
+  </scm>
+
+  <distributionManagement>
+    <repository>
+      <id>maven-releases</id>
+      <url>https://repo.example.com/releases</url>
+    </repository>
+    <snapshotRepository>
+      <id>maven-snapshots</id>
+      <url>https://repo.example.com/snapshots</url>
+    </snapshotRepository>
+  </distributionManagement>
 
   <dependencies>
     <dependency>
