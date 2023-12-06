@@ -8,5 +8,6 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.SOURCE)
 @Target(ElementType.METHOD)
 public @interface BPMNGetterVariables {
-    String variables() default "";
+    String container() default "";
+    String[] variables() default "";
 }

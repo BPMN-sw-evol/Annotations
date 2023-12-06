@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8c0bae2f-c61a-4131-bfbb-ec04dffff1fb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/msgfoundation/annotations/BPMNGetVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/msgfoundation/annotations/BPMNGetVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/msgfoundation/annotations/BPMNSetVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/msgfoundation/annotations/BPMNSetVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.msgfoundation.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.msgfoundation.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.msgfoundation.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.msgfoundation.AppTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,7 @@
       <workItem from="1701455547511" duration="11000" />
       <workItem from="1701467903440" duration="6000" />
       <workItem from="1701656571890" duration="1964000" />
-      <workItem from="1701719994520" duration="16000" />
+      <workItem from="1701719994520" duration="615000" />
     </task>
     <servers />
   </component>
