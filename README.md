@@ -1,4 +1,4 @@
-# biptrac-annotations
+# Annotations
 This repository contains the annotations definition to MSG-Foundation project
 
 ## Index
