@@ -1,5 +1,3 @@
-com\msgfoundation\annotations\BPMNGetVariables.class
-com\msgfoundation\annotations\BPMNSetVariables.class
-com\msgfoundation\annotations\BPMNTask.class
 com\msgfoundation\annotations\BPMNSetterVariables.class
 com\msgfoundation\annotations\BPMNGetterVariables.class
+com\msgfoundation\annotations\BPMNTask.class
